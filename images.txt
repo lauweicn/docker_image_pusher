@@ -1,1 +1,1 @@
-frappe/erpnext:latest
+xhofe/alist:latest
