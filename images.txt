@@ -6,4 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #frappe/erpnext
 #mariadb
-ollama/ollama
+teslamate/teslamate:latest
+postgres:16
+teslamate/grafana:latest
+eclipse-mosquitto:2
