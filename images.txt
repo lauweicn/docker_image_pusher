@@ -9,7 +9,7 @@
 # teslamate
 #teslamate/teslamate:latest
 #postgres:16
-#teslamate/grafana:latest
+teslamate/grafana:latest
 #eclipse-mosquitto:2
 #httpd:latest
-nginx:latest
+#nginx:latest
