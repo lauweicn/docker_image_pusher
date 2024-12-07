@@ -7,9 +7,9 @@
 #frappe/erpnext
 #mariadb
 # teslamate
-#teslamate/teslamate:latest
-#postgres:16
+teslamate/teslamate:latest
+postgres:17
 teslamate/grafana:latest
-#eclipse-mosquitto:2
+eclipse-mosquitto:2
 #httpd:latest
 #nginx:latest
