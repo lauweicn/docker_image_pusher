@@ -8,9 +8,9 @@
 #mariadb
 # teslamate
 teslamate/teslamate:latest
-postgres:17
+postgres:18-trixie
 teslamate/grafana:latest
 eclipse-mosquitto:2
 #httpd:latest
 #nginx:latest
-louislam/uptime-kuma:1
+#louislam/uptime-kuma:1
