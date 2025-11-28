@@ -14,3 +14,12 @@ eclipse-mosquitto:2
 #httpd:latest
 #nginx:latest
 #louislam/uptime-kuma:1
+
+# seafile
+seafileltd/seafile-mc:13.0-latest
+mariadb:10.11
+redis
+lucaslorentz/caddy-docker-proxy:2.9-alpine
+seafileltd/sdoc-server:2.0-latest
+seafileltd/notification-server:13.0-latest
+seafileltd/seafile-md-server:13.0-latest
