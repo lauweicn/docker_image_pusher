@@ -23,3 +23,5 @@ lucaslorentz/caddy-docker-proxy:2.9-alpine
 seafileltd/sdoc-server:2.0-latest
 seafileltd/notification-server:13.0-latest
 seafileltd/seafile-md-server:13.0-latest
+
+onlyoffice/documentserver
